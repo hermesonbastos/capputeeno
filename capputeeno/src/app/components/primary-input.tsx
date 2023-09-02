@@ -11,7 +11,7 @@ export const PrimaryInput = styled.input`
 
     background-color: var(--bg-secondary);
 
-    color: var(---text-dark);
+    color: var(--text-dark);
     font-family: inherit;
     font-style: normal;
     font-weight: 400;
